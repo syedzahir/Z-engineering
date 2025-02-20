@@ -64,19 +64,6 @@ curl -X POST http://localhost:3000/deploy -d '{ "appName": "my-app", "cluster": 
 - [ ] UI Dashboard for deployment tracking
 - [ ] Advanced security features (RBAC, IAM roles)
 
-## 👥 Contributing
-We welcome contributions! To get started:
-1. Fork the repo & create a new branch.
-2. Make your changes and commit.
-3. Open a pull request.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
-## 🛠 Maintainers
-- **Your Name** (@your-handle)
-- **Your Organization** (@your-org)
-
 ## 📢 Project Launch Plan
 ### **1️⃣ Pre-Launch (1-2 Weeks Before Release)**
 - ✅ Set up GitHub repository.
@@ -84,12 +71,6 @@ This project is licensed under the **MIT License**.
 - ✅ Prepare example Helm charts.
 - ✅ Set up CI/CD for automated builds.
 - ✅ Collect early feedback from developers.
-
-### **2️⃣ Launch Day**
-- 🚀 Announce on **Hacker News, Dev.to, Twitter, LinkedIn**.
-- 📝 Publish a blog post on **Medium & Hashnode**.
-- 🔥 Share on **Reddit (r/devops, r/kubernetes)**.
-- 🤝 Engage with developer communities (Discord, Slack groups).
 
 ### **3️⃣ Post-Launch Growth**
 - 📌 Answer GitHub Issues and Discussions.
